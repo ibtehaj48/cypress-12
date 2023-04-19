@@ -24,7 +24,6 @@ Install or make sure Chrome browser (at least) have it in your development machi
 3) Execute the following command in terminal `npm install` or `npm i` for installing the required packages
 4) Execute the following command in terminal to run the tests in Cypress runner (UI) `npm run cy:open`
 5) Execute the following command in terminal to run the tests in headless mode `npm run cy:run`
-6) For running specific scenario: Run `npm run tag:only` and set tag `@only` above the scenario you want to run
 
 ### Framework Structure
 
