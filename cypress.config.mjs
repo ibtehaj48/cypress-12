@@ -44,6 +44,7 @@ export default defineConfig({
     specPattern: '**/e2e/*.feature',
     supportFile: false,
     experimentalWebKitSupport: true,
+    experimentalRunAllSpecs: true,
     setupNodeEvents
   }
 })

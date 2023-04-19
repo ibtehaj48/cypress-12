@@ -13,6 +13,6 @@
     "output": "reports/html/index.html"
   },
   "stepDefinitions": [
-      "cypress/e2e/*.{js,mjs}"
+      "cypress/support/step-definition/**/*.{js,mjs}"
   ]
 }
