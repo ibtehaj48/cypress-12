@@ -1,0 +1,7 @@
+node_modules
+dist/
+.DS_Store
+cucumber-json-formatter
+reports
+videos
+screenshots

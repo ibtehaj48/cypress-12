@@ -1,0 +1,20 @@
+{
+  "name": "cypress_12",
+  "version": "1.0.0",
+  "description": "Getting the first experience with newer version of cypress i.e. v 12.x.x",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:version": "cypress version"
+  },
+  "author": "Uzair Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.3",
+    "@cypress/webpack-preprocessor": "^5.15.0",
+    "cypress": "^12.10.0",
+    "playwright-webkit": "^1.28.0",
+    "webpack": "^5.74.0"
+  }
+}
