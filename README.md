@@ -1,6 +1,6 @@
 # BDD Testing framework using Cypress & Cucumber
 
-Frameworks:
+### Frameworks:
 
 - [Cypress v12.10.0](https://docs.cypress.io/guides/references/changelog#12-10-0)
 
@@ -8,7 +8,6 @@ Frameworks:
 
 ### Prepare development environment
 
-Install or make sure Chrome browser (at least) have it in your development machine
 1) Install [Node v17.9.0](https://nodejs.org/dist/)
 2) Install [Git](https://git-scm.com/downloads)
 3) Install [Github Desktop App](https://desktop.github.com/) (Optional)
